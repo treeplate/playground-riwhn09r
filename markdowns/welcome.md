@@ -6,4 +6,4 @@
 ```
 
 This is Dart's 'Hello World' program.
-[Interpreter](https://dartpad.com)
+[Interpreter](https://dartpad.dev)
